@@ -12,14 +12,26 @@
 |**Github**|[@khsexk](https://github.com/khsexk)|[@M00NPANG](https://github.com/M00NPANG)|[@jhyeonn](https://github.com/jhyeonn)|[@limchansub](https://github.com/limchansub)|[@seoyoun8694](https://github.com/seoyoun8694)|
 
 ### 3. Lecture Notes
-- 1주차
-  - 3/30: [OOP와 자바 강의자료](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/1st-week-1.md)
+- 1주차 (1회)
+  - 4/1: [OOP와 자바 강의자료](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/1st-week-1.md)
     - OOP
     - Java (기본 문법 포함)
     - Git과 Github (gui 사용법 포함)
-- 2주차
-  - 4/4: [미정](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/2nd-week-1.md)
-  - 4/6: [미정](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/2nd-week-2.md)
+- 2주차 (2회, 3회)
+  - 4/4: [Collection Framework 1](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/2nd-week-1.md)
+    - Collection Framework의 개념
+    - ArrayList
+  - 4/6: [Collection Framework 2](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/2nd-week-2.md)
+    - LinkedList
+    - Stack과 Queue
+- 3주차 (4회, 5회)
+  - 4/11: [미정](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/3rd-week-1.md)
+  - 4/13: [미정](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/3rd-week-2.md)
+- 4주차
+  - 시험기간으로 인해 진행 X
+- 5주차 (6회, 7회)
+  - 4/25
+  - 4/27
 
 * * *
 ### 4. Toy Project
